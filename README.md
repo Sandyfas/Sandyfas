@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 [![](https://komarev.com/ghpvc/?username=Sandyfas&icon=0&color=0)](https://visitcount.itsvg.in)
 
 Here are some ideas to get you started:
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sandyfas&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Sandyfas&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/DiamondSandy) 
