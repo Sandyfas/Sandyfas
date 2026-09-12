@@ -122,7 +122,7 @@ My experience spans health and human services, nonprofit operations, enterprise 
 
 ## Connect
 
-I am open to senior Business Analyst, BI, Data Operations, and program or portfolio opportunities across the United States.
+Open to Senior, Director, and COO-Level Opportunities with Fast-Growing Companies Across the United States.
 
 - [LinkedIn](https://www.linkedin.com/in/sandraohuegbe/)
 - [Email](mailto:s.ohuegbe.careers@gmail.com)
