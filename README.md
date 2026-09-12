@@ -1,32 +1,128 @@
-## Hi there 👋 [![](https://komarev.com/ghpvc/?username=Sandyfas&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <strong>Hi there, I'm Sandra 👋</strong><br /><br />
+  <strong>Senior Business &amp; Operations Analyst</strong><br />
+  Business Analysis · BI &amp; Data Operations · Agile Delivery · AI-Governed Requirements
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/sandraohuegbe/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:s.ohuegbe.careers@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-25324A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/PMI--PBA®-Certified-00A6A6?style=for-the-badge" alt="PMI-PBA Certified" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## About Me
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ohuegbesandra/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sandraohuegbe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s.ohuegbe.careers@gmail.com) 
+I lead people and delivery, not just projects.
 
-# 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+With 10+ years of experience, I help organizations turn complex processes, fragmented data, and competing stakeholder needs into clear requirements and repeatable systems.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sandyfas&theme=swift&hide_border=false&include_all_commits=true&count_private=false)
-![](https://streak-stats.demolab.com/?user=Sandyfas&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sandyfas&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+My experience spans health and human services, nonprofit operations, enterprise consulting, and financial services. My work sits at the intersection of **business, data, people, and process**.
 
----
+## Impact at a Glance
 
+<p align="center"><strong>Results delivered across people, process, data, and technology.</strong></p>
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/DiamondSandy) 
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h2>50+</h2>
+      <strong>Team Members Led</strong><br />
+      Statewide delivery completed two weeks early
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h2>75%</h2>
+      <strong>Faster Reporting</strong><br />
+      Reduced weekly preparation from 8 hours to under 2
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h2>50%</h2>
+      <strong>Faster Requirements</strong><br />
+      Accelerated BRDs, user stories, and acceptance criteria
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h2>35%</h2>
+      <strong>Higher Compliance</strong><br />
+      Improved monthly casework performance across an agency network
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h2>22%</h2>
+      <strong>More Early Referrals</strong><br />
+      Identified risk through integrated health and social-services data
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h2>15%</h2>
+      <strong>Faster Case Processing</strong><br />
+      Replaced inconsistent practices with one operating standard
+    </td>
+  </tr>
+</table>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Core Expertise
+
+> I connect strategy, data, and delivery to move work from **unclear problem** to **measurable result**.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔎 Business Analysis &amp; Strategy</h3>
+      <p>I uncover the real business need and turn it into decisions teams can act on.</p>
+      <p><strong>Requirements Discovery</strong> · Process Mapping · Gap Analysis · Business Rules · BRDs · User Stories · Acceptance Criteria</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Data &amp; Business Intelligence</h3>
+      <p>I translate complex data into trusted insights for leaders and frontline teams.</p>
+      <p><strong>SQL Analysis</strong> · Data Quality · KPI Design · Power BI · Tableau · Cognos · Self-Service Reporting</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤝 Delivery &amp; Operations</h3>
+      <p>I align people, priorities, and processes so solutions reach the finish line.</p>
+      <p><strong>Agile Delivery</strong> · Stakeholder Facilitation · UAT · Risk Management · Change Management · Process Improvement</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 AI-Enabled Requirements</h3>
+      <p>I use AI to accelerate analysis while keeping people accountable for quality and decisions.</p>
+      <p><strong>AI-Assisted Discovery</strong> · Requirements Automation · Traceability · Human Review · Governance Controls</p>
+    </td>
+  </tr>
+</table>
+
+## Tools and Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/IBM_Cognos-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM Cognos" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" alt="Confluence" />
+  <img src="https://img.shields.io/badge/Microsoft_Project-217346?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Project" />
+  <img src="https://img.shields.io/badge/Power_Platform-742774?style=flat-square&logo=powerautomate&logoColor=white" alt="Microsoft Power Platform" />
+  <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure AI" />
+</p>
+
+## Credentials and Education
+
+- PMI Professional in Business Analysis, PMI-PBA®
+- Microsoft Certified: Power Platform Fundamentals
+- Microsoft Certified: Azure AI Fundamentals
+- M.S. in Business Intelligence and Data Analysis, Brooklyn College
+- M.A. in Development Studies, University of the Western Cape
+
+## What I Bring to a Team
+
+- I turn ambiguous requests into testable requirements and clear decisions.
+- I build alignment across organizations, including teams where I hold no formal authority.
+- I connect operational context with data, technology, policy, and human impact.
+- I design systems and standards that teams can sustain after delivery.
+- I remain accountable for measurable outcomes, not just completed documents.
+
+## Connect
+
+I am open to senior Business Analyst, BI, Data Operations, and program or portfolio opportunities across the United States.
+
+- [LinkedIn](https://www.linkedin.com/in/sandraohuegbe/)
+- [Email](mailto:s.ohuegbe.careers@gmail.com)
